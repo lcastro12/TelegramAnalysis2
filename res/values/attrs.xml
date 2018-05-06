@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="mapType">
+        <item>65536</item>
+        <item>4</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </attr>
+    <attr name="cameraBearing">
+        <item>32</item>
+    </attr>
+    <attr name="cameraTargetLat">
+        <item>32</item>
+    </attr>
+    <attr name="cameraTargetLng">
+        <item>32</item>
+    </attr>
+    <attr name="cameraTilt">
+        <item>32</item>
+    </attr>
+    <attr name="cameraZoom">
+        <item>32</item>
+    </attr>
+    <attr name="uiCompass">
+        <item>8</item>
+    </attr>
+    <attr name="uiRotateGestures">
+        <item>8</item>
+    </attr>
+    <attr name="uiScrollGestures">
+        <item>8</item>
+    </attr>
+    <attr name="uiTiltGestures">
+        <item>8</item>
+    </attr>
+    <attr name="uiZoomControls">
+        <item>8</item>
+    </attr>
+    <attr name="uiZoomGestures">
+        <item>8</item>
+    </attr>
+    <attr name="useViewLifecycle">
+        <item>8</item>
+    </attr>
+    <attr name="zOrderOnTop">
+        <item>8</item>
+    </attr>
+</resources>
